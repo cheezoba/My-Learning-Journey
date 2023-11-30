@@ -1,4 +1,4 @@
-# Markdown-tryouts
+# Basic-Markdown-tryouts
 
 ## Headings (H1 - H6)
 
