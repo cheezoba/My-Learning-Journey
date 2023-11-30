@@ -88,3 +88,9 @@ like this too **[Chizoba Odita Portfolio](https:www.behance.net/chizobaodita)**
 And combine it too ***<https:www.behance.net/chizobaodita>***
 
 ## Images
+
+![Example](https://mdg.imgix.net/assets/images/san-juan-mountains.jpg?auto=format&fit=clip&q=40&w=1080)
+
+## The End
+
+[Markdown Cheetsheet Referrence](https://www.markdownguide.org/cheat-sheet/)
