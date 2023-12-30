@@ -1,0 +1,36 @@
+body {
+  background-color: black;
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.message {
+  font-size: 45px;
+  margin-bottom: 0;
+  margin-top: 0;
+}
+
+.black-buttons,
+.orange-buttons,
+.clear-button {
+  height: 60px;
+  width: 60px;
+  font-size: 26px;
+  border: none;
+  border-radius: 60px;
+  margin-right: 5px;
+  color: white;
+}
+
+.black-buttons,
+.clear-button {
+  background-color: rgb(51, 51, 51);
+}
+
+.orange-buttons {
+  background-color: rgb(254, 160, 10);
+}
+
+.clear-button {
+  font-size: 17px;
+}
