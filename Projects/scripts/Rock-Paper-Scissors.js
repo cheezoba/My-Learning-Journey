@@ -40,6 +40,16 @@ document.querySelector('.js-scissors-button')
     playGame('Scissors');
   });
 
+document.body.addEventListener('keydown', (event) => {
+  if(event.key === 'r'){
+    playGame('Rock');
+  } else if(event.key === 'p'){
+    playGame('Paper');
+  } else if(event.key === 's'){
+    playGame('Scissors');
+  }
+});
+
 function playGame(playerMove) {
   const computerMove = pickComputerMove();
 
