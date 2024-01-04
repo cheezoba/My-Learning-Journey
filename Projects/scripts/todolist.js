@@ -16,7 +16,7 @@ function renderTodoList() {
     const html = `
       <div>${name}</div>
       <div>${dueDate}</div>
-      <button class="delete-button" "js-delete-button">
+      <button class="delete-button js-delete-button">
         Delete
       </button>
     `;
